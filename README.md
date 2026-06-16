@@ -11,7 +11,7 @@ MATGen is a lightweight traffic generator that emulates realistic mobile applica
 Python 3.8+
 
 ```bash
-cd matgenv1
+cd MATGen
 python3 -m venv env
 source env/bin/activate
 pip install -r requirements.txt
