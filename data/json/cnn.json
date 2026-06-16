@@ -1,0 +1,542 @@
+{
+  "non_interactive": {
+    "get": {
+      "burst_probability": {
+        "middle": 0.6666666666666666,
+        "end": 0.03125,
+        "beginning": 0.3333333333333333
+      },
+      "burst_frequency": {
+        "middle": 2,
+        "end": 1,
+        "beginning": 1
+      },
+      "burst_size_max": {
+        "middle": 344.2,
+        "end": 192.88,
+        "beginning": 398.53
+      },
+      "burst_size_min": {
+        "middle": 225.51999999999998,
+        "end": 192.88,
+        "beginning": 398.53
+      },
+      "burst_size_avg": {
+        "middle": 284.86,
+        "end": 192.88,
+        "beginning": 398.53
+      },
+      "burst_size": {
+        "middle": [
+          225.51999999999998,
+          344.2
+        ],
+        "end": [
+          192.88
+        ],
+        "beginning": [
+          398.53
+        ]
+      },
+      "burst_interval": {
+        "middle": [
+          0,
+          2
+        ],
+        "end": [
+          0
+        ],
+        "beginning": [
+          0
+        ]
+      },
+      "burst_duration": {
+        "middle": [
+          1,
+          1
+        ],
+        "end": [
+          1
+        ],
+        "beginning": [
+          1
+        ]
+      },
+      "max_burst_size": 398.53,
+      "burst_req_max": {
+        "middle": 8.0,
+        "end": 12.0,
+        "beginning": 3.0
+      },
+      "burst_req_min": {
+        "middle": 8.0,
+        "end": 12.0,
+        "beginning": 3.0
+      },
+      "average_non_burst_size": 2.4755263157894736,
+      "max_size_each_second": 398.53,
+      "total_requests": 49.0,
+      "session_data_cap": 1255.2,
+      "non_burst_req_max": 4.0,
+      "non_burst_req_min": 0.0,
+      "max_size_each_second_non_burst": 42.01,
+      "phase_data_caps": [
+        399.78999999999996,
+        611.73,
+        243.67999999999998
+      ]
+    },
+    "post": {
+      "burst_probability": {
+        "middle": 0.125,
+        "end": 0.037037037037037035,
+        "beginning": 0.0
+      },
+      "burst_frequency": {
+        "middle": 1,
+        "end": 1,
+        "beginning": 0
+      },
+      "burst_size_max": {
+        "middle": 22.03,
+        "end": 22.29,
+        "beginning": 0
+      },
+      "burst_size_min": {
+        "middle": 22.03,
+        "end": 22.29,
+        "beginning": 0
+      },
+      "burst_avg_size": {
+        "middle": 22.03,
+        "end": 22.29,
+        "beginning": 0
+      },
+      "burst_size": {
+        "middle": [
+          22.03
+        ],
+        "end": [
+          22.29
+        ],
+        "beginning": 0
+      },
+      "burst_interval": {
+        "middle": [
+          0
+        ],
+        "end": [
+          0
+        ],
+        "beginning": 0
+      },
+      "burst_duration": {
+        "middle": [
+          1
+        ],
+        "end": [
+          1
+        ],
+        "beginning": 0
+      },
+      "max_burst_size": 22.29,
+      "burst_req_max": {
+        "middle": 1,
+        "end": 4,
+        "beginning": 0
+      },
+      "burst_req_min": {
+        "middle": 1,
+        "end": 4,
+        "beginning": 0
+      },
+      "average_non_burst_size": 1.8115789473684207,
+      "max_size_each_second": 22.29,
+      "total_requests": 52,
+      "session_data_cap": 113.15999999999998,
+      "non_burst_req_max": 8,
+      "non_burst_req_min": 0,
+      "max_size_each_second_non_burst": 11.91,
+      "phase_data_caps": [
+        12.100000000000001,
+        60.1,
+        40.96
+      ]
+    },
+    "max_requests_per_second": 16,
+    "max_time": 60.583644
+  },
+  "interactive": {
+    "get": {
+      "burst_probability": {
+        "middle": 0.11764705882352941,
+        "end": 0.0,
+        "beginning": 0.3333333333333333
+      },
+      "burst_frequency": {
+        "middle": 2,
+        "end": 0,
+        "beginning": 3
+      },
+      "burst_size_max": {
+        "middle": 3852.44,
+        "end": 0,
+        "beginning": 4771.7300000000005
+      },
+      "burst_size_min": {
+        "middle": 1389.68,
+        "end": 0,
+        "beginning": 1745.91
+      },
+      "burst_size_avg": {
+        "middle": 2621.06,
+        "end": 0,
+        "beginning": 2937.266666666667
+      },
+      "burst_size": {
+        "middle": [
+          3852.44,
+          1389.68
+        ],
+        "end": 0,
+        "beginning": [
+          4771.7300000000005,
+          2294.16,
+          1745.91
+        ]
+      },
+      "burst_interval": {
+        "middle": [
+          0,
+          4
+        ],
+        "end": 0,
+        "beginning": [
+          0,
+          2,
+          3
+        ]
+      },
+      "burst_duration": {
+        "middle": [
+          1,
+          1
+        ],
+        "end": 0,
+        "beginning": [
+          1,
+          1,
+          1
+        ]
+      },
+      "max_burst_size": 4771.7300000000005,
+      "burst_req_max": {
+        "middle": 9,
+        "end": 0,
+        "beginning": 19
+      },
+      "burst_req_min": {
+        "middle": 8,
+        "end": 0,
+        "beginning": 7
+      },
+      "average_non_burst_size": 109.42965909090911,
+      "max_size_each_second": 4771.7300000000005,
+      "total_requests": 297,
+      "session_data_cap": 23683.730000000003,
+      "non_burst_req_max": 15,
+      "non_burst_req_min": 0,
+      "max_size_each_second_non_burst": 1291.1,
+      "phase_data_caps": [
+        12687.189999999999,
+        8557.099999999999,
+        2439.4399999999996
+      ]
+    },
+    "post": {
+      "burst_probability": {
+        "middle": 0.08108108108108109,
+        "end": 0.029411764705882353,
+        "beginning": 0.0
+      },
+      "burst_frequency": {
+        "middle": 3,
+        "end": 1,
+        "beginning": 0
+      },
+      "burst_size_max": {
+        "middle": 13.78,
+        "end": 24.77,
+        "beginning": 0
+      },
+      "burst_size_min": {
+        "middle": 11.06,
+        "end": 24.77,
+        "beginning": 0
+      },
+      "burst_avg_size": {
+        "middle": 11.99,
+        "end": 24.77,
+        "beginning": 0
+      },
+      "burst_size": {
+        "middle": [
+          11.13,
+          11.06,
+          13.78
+        ],
+        "end": [
+          24.77
+        ],
+        "beginning": 0
+      },
+      "burst_interval": {
+        "middle": [
+          0,
+          12,
+          4
+        ],
+        "end": [
+          0
+        ],
+        "beginning": 0
+      },
+      "burst_duration": {
+        "middle": [
+          1,
+          1,
+          1
+        ],
+        "end": [
+          1
+        ],
+        "beginning": 0
+      },
+      "max_burst_size": 24.77,
+      "burst_req_max": {
+        "middle": 3.0,
+        "end": 7.0,
+        "beginning": 0
+      },
+      "burst_req_min": {
+        "middle": 1.0,
+        "end": 7.0,
+        "beginning": 0
+      },
+      "average_non_burst_size": 1.4895454545454547,
+      "max_size_each_second": 24.77,
+      "total_requests": 84.0,
+      "session_data_cap": 191.82,
+      "non_burst_req_max": 6.0,
+      "non_burst_req_min": 0.0,
+      "max_size_each_second_non_burst": 10.7,
+      "phase_data_caps": [
+        39.13999999999999,
+        70.22,
+        82.46000000000001
+      ]
+    },
+    "max_requests_per_second": 17,
+    "max_time": 118.96892509460451
+  },
+  "full_interactive": {
+    "get": {
+      "burst_probability": {
+        "middle": 0.058333333333333334,
+        "end": 0.0,
+        "beginning": 0.043478260869565216
+      },
+      "burst_frequency": {
+        "middle": 7,
+        "end": 0,
+        "beginning": 1
+      },
+      "burst_size_max": {
+        "middle": 18598.75,
+        "end": 0,
+        "beginning": 30940.9
+      },
+      "burst_size_min": {
+        "middle": 5900.09,
+        "end": 0,
+        "beginning": 30940.9
+      },
+      "burst_size_avg": {
+        "middle": 7860.818571428571,
+        "end": 0,
+        "beginning": 30940.9
+      },
+      "burst_size": {
+        "middle": [
+          18598.75,
+          5935.56,
+          6052.63,
+          6084.41,
+          5900.09,
+          6367.59,
+          6086.7
+        ],
+        "end": 0,
+        "beginning": [
+          30940.9
+        ]
+      },
+      "burst_interval": {
+        "middle": [
+          0,
+          6,
+          6,
+          6,
+          6,
+          6,
+          6
+        ],
+        "end": 0,
+        "beginning": [
+          0
+        ]
+      },
+      "burst_duration": {
+        "middle": [
+          3,
+          1,
+          1,
+          1,
+          1,
+          1,
+          1
+        ],
+        "end": 0,
+        "beginning": [
+          3
+        ]
+      },
+      "max_burst_size": 30940.9,
+      "burst_req_max": {
+        "middle": 8.0,
+        "end": 0,
+        "beginning": 10.0
+      },
+      "burst_req_min": {
+        "middle": 2.0,
+        "end": 0,
+        "beginning": 5.0
+      },
+      "average_non_burst_size": 52.24092391304347,
+      "max_size_each_second": 12482.21,
+      "total_requests": 307.0,
+      "session_data_cap": 95578.96,
+      "non_burst_req_max": 14.0,
+      "non_burst_req_min": 0.0,
+      "max_size_each_second_non_burst": 760.14,
+      "phase_data_caps": [
+        33618.729999999996,
+        57749.369999999995,
+        4210.86
+      ]
+    },
+    "post": {
+      "burst_probability": {
+        "middle": 0.0410958904109589,
+        "end": 0.0851063829787234,
+        "beginning": 0.03125
+      },
+      "burst_frequency": {
+        "middle": 3,
+        "end": 4,
+        "beginning": 2
+      },
+      "burst_size_max": {
+        "middle": 19.26,
+        "end": 42.64,
+        "beginning": 83.92999999999999
+      },
+      "burst_size_min": {
+        "middle": 16.27,
+        "end": 17.68,
+        "beginning": 33.12
+      },
+      "burst_avg_size": {
+        "middle": 17.593333333333334,
+        "end": 28.085,
+        "beginning": 58.52499999999999
+      },
+      "burst_size": {
+        "middle": [
+          16.27,
+          17.25,
+          19.26
+        ],
+        "end": [
+          17.68,
+          27.740000000000002,
+          24.28,
+          42.64
+        ],
+        "beginning": [
+          33.12,
+          83.92999999999999
+        ]
+      },
+      "burst_interval": {
+        "middle": [
+          0,
+          12,
+          36
+        ],
+        "end": [
+          0,
+          3,
+          7,
+          16
+        ],
+        "beginning": [
+          0,
+          7
+        ]
+      },
+      "burst_duration": {
+        "middle": [
+          1,
+          1,
+          1
+        ],
+        "end": [
+          1,
+          1,
+          1,
+          1
+        ],
+        "beginning": [
+          1,
+          2
+        ]
+      },
+      "max_burst_size": 83.92999999999999,
+      "burst_req_max": {
+        "middle": 3.0,
+        "end": 6.0,
+        "beginning": 4.0
+      },
+      "burst_req_min": {
+        "middle": 2.0,
+        "end": 3.0,
+        "beginning": 1.0
+      },
+      "average_non_burst_size": 1.4425543478260867,
+      "max_size_each_second": 65.82,
+      "total_requests": 165.0,
+      "session_data_cap": 547.5999999999999,
+      "non_burst_req_max": 5.0,
+      "non_burst_req_min": 0.0,
+      "max_size_each_second_non_burst": 13.83,
+      "phase_data_caps": [
+        224.64999999999998,
+        136.09,
+        186.85999999999999
+      ]
+    },
+    "max_requests_per_second": 18,
+    "max_time": 224.70508966445922
+  }
+}

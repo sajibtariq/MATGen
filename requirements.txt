@@ -1,0 +1,10 @@
+httpx[http2]
+hypercorn
+quart-trio
+trio
+numpy
+starlette
+aioquic
+matplotlib
+flask
+pyopenssl

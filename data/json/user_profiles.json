@@ -1,0 +1,33 @@
+{
+  "social_engager": {
+    "user_activity": 100,
+    "news": 0,
+    "social_network": 100,
+    "entertainment": 0,
+    "e-commerce": 0
+  },
+  "news_follower": {
+    "user_activity": 100,
+    "news": 100,
+    "social_network": 0,
+    "entertainment": 0,
+    "e-commerce": 0
+  },
+  "content_consumer": {
+    "user_activity": 100,
+    "news": 0,
+    "social_network": 0,
+    "entertainment": 100,
+    "e-commerce": 0
+  },
+  "shopper": {
+    "user_activity": 100,
+    "news": 0,
+    "social_network": 0,
+    "entertainment": 0,
+    "e-commerce": 100
+  }
+}
+
+
+
