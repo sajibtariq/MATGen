@@ -122,13 +122,6 @@ This version models a **single app session** — one user profile, one app categ
 continuous session progressing through Non-Interactive, Interactive, and Full-Interactive
 states. It runs over HTTPS HTTP/2 within a Python-based client-server framework.  Application supports: Facebook (social media category, social_engager user_profile), TikTok (entertainment category, content_consumer user_profile), CNN (news category, news_follower user_profile), and Amazon (e-commerce category, shopper user_profile).
 
-### Todo
-
-- **Multi-app user session model**
-- **QoE model** 
-- **HTTP/3 support** 
-- **Broader app coverage** 
-
 ---
 
 ## Citation
